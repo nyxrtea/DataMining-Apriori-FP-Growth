@@ -1,7 +1,8 @@
 # UAS Penambangan Data Project: Menemukan Pola Asosiasi Yang Mempengaruhi Nilai Mahasiswa Dengan Algoritma Apriori dan FP - Growth
 
 ## Proyek
-**Judul**: Penerapan Algoritma Apriori dan FP-Growth Dalam Menemukan Pola Asosiasi Faktor Yang Mempengaruhi Nilai Mahasiswa  
+**Judul**: Penerapan Algoritma Apriori dan FP-Growth Dalam Menemukan Pola Asosiasi Faktor Yang Mempengaruhi Nilai Mahasiswa 
+
 **Topik**: Association Rule Mining 
 
 **MataKuliah**: Penambangan Data 2023C
