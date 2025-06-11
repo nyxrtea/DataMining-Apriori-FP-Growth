@@ -3,7 +3,9 @@
 ## Proyek
 **Judul**: Penerapan Algoritma Apriori dan FP-Growth Dalam Menemukan Pola Asosiasi Faktor Yang Mempengaruhi Nilai Mahasiswa  
 **Topik**: Association Rule Mining 
+
 **MataKuliah**: Penambangan Data 2023C
+
 **Dataset**: https://archive.ics.uci.edu/dataset/856/higher%2Beducation%2Bstudents%2Bperformance%2Bevaluation?utm_source=  
 
 **Anggota Tim (Kelompok 8 - 2023C)**:  
